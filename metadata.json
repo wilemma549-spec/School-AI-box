@@ -1,0 +1,6 @@
+{
+  "name": "School AI Inbox",
+  "description": "Share any school message. Get a clear to-do list automatically synced to Google Tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
